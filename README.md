@@ -1,4 +1,1 @@
-Hi, I am Mmedara Josiah. 
-
-I studied Software Engineering at Carleton University, Ottawa, Canada. 
-I am an android app developer.
+Hi, I am Mmedara Josiah. I studied Software Engineering at Carleton University, Ottawa, Canada. I am an android app developer. For two years, I taught 2D game development to kids in many different languages. I have worked on many android and 2D game projects in the past few years. My relevant projects are available here in my Github.
