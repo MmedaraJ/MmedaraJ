@@ -1,1 +1,2 @@
-Hi. I am Mmedara Josiah. A Software, Android and Full-Stack developer.  
+Hi. I am Mmedara Josiah. A software
+developer.  
